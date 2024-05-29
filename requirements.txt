@@ -1,0 +1,7 @@
+numpy
+requests
+opencv-python
+moviepy
+pygame
+Pillow==9.5.0
+pygetwindow

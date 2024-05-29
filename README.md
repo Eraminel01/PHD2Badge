@@ -54,7 +54,7 @@ python bad_apple.py
 [Демонстрация Bad Apple](https://www.youtube.com/watch?v=YREEqCkYd-0?si=kE5fvij1WsPg8fkl)
 
 ### snake.py
-Запустите скрипт и управляйте змейкой с помощью клавиш направления.
+Запустите скрипт и управляйте змейкой с помощью клавиш на клавиатуре.
 ```bash
 python snake.py
 ```
